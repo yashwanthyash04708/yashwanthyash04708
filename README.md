@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @yashwanthyash04708
 - 👀 I’m interested in ... software developer/engineer, building applications, systems, or web services.
-- 🌱 I’m currently learning ...javascripts which helps me to lesrn and grow as a full-stack developer. 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ...javascripts which helps me to learn and grow as a full-stack developer. 
 - 📫 How to reach me ... : yashwanthyash04708@gmail.com
 
 <!---
